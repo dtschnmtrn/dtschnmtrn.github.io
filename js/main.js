@@ -41,7 +41,7 @@ var und = "und",
 	toTeens = "zehn";
 var	t = [
 	"null",
-	"eins",
+	"ein",
 	"zwei",
 	"drei",
 	"vier",
