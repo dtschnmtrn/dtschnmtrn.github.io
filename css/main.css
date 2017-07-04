@@ -1,0 +1,79 @@
+.container {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-direction: column;
+
+	margin: 0 auto;
+	max-width: 800px;
+	width: 100%;
+
+}
+
+
+
+/* HELPER */
+
+.helper {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+
+}
+
+
+
+#helpResult {
+	font-size: 30px;
+}
+
+#helpNum {
+	width: 20%;
+	font-size: 40px;
+}
+
+#helpGo {
+	width: 25%;
+	font-size: 40px;
+}
+
+
+
+
+
+/* TEST */
+
+.test {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
+
+}
+
+#question {
+	font-size: 40px;
+}
+
+#answer {
+	width: 55%;
+	font-size: 24px;
+}
+
+#check {
+	width: 25%;
+	font-size: 40px;
+}
+
+#ansRes {
+	color: black;
+}
